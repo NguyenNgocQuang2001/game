@@ -1,2 +1,1 @@
-# game
-game
+$ git remote rm game
